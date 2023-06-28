@@ -34,11 +34,6 @@ Yo como usuario del sistema quiero renovar el préstamo de libros en línea para
 #### Historia de usuario:
 Yo como usuario del sistema quiero cancelar una solicitud de préstamo de libros en línea para que otro usuario pueda solicitar el libro
 
-### 6. Agregar libros al inventario del sistema
-#### Historia de usuario:
-Yo como usuario administrador del sistema quiero poder agregar nuevos libros con su (título, autor, género y precio) al
-inventario del sistema para mantener actualizada la colección de la biblioteca y ofrecer a los usuarios una
-variedad de opciones de lectura.
 
 
 
