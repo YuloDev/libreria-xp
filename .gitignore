@@ -15,8 +15,7 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 
-# Archivos de registro
-*.log
+
 
 # Eclipse
 .classpath
