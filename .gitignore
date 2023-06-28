@@ -27,8 +27,6 @@ buildNumber.properties
 *.iws
 *.ipr
 
-# NetBeans
-nbproject/private/
 
 # Archivos de respaldo
 *~
