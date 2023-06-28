@@ -1,0 +1,39 @@
+# Directorios
+target/
+bin/
+.idea/
+
+# Archivos de compilación
+*.class
+
+# Archivos de configuración de Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Archivos de registro
+*.log
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+*.iml
+*.iws
+*.ipr
+
+# NetBeans
+nbproject/private/
+
+# Archivos de respaldo
+*~
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
